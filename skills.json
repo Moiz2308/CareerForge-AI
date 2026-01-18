@@ -1,0 +1,14 @@
+{
+  "Data Science": {
+    "Technical Skills": ["Python", "SQL", "Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Keras", "Tableau", "PowerBI", "AWS", "Git"],
+    "Concepts": ["Regression", "Classification", "Clustering", "Neural Networks", "NLP", "A/B Testing", "ETL Pipelines"]
+  },
+  "Web Development": {
+    "Technical Skills": ["HTML5", "CSS3", "JavaScript", "React.js", "Node.js", "Express", "MongoDB", "PostgreSQL", "REST APIs", "Docker"],
+    "Concepts": ["Responsive Design", "State Management", "Microservices", "CI/CD", "Authentication", "SEO"]
+  },
+  "Cybersecurity": {
+    "Technical Skills": ["Linux", "Wireshark", "Metasploit", "Nmap", "Python", "Bash Scripting", "SIEM Tools", "Firewalls"],
+    "Concepts": ["Penetration Testing", "Network Security", "Cryptography", "Risk Assessment", "Incident Response"]
+  }
+}
